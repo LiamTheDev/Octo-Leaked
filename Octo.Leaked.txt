@@ -1,0 +1,192 @@
+Most of the OctoVPN's have 10668 TCP Port open! Hit the connection port or the open TCP Port. 
+
+- Amsterdam - Premium Game 1 = Path Networks - Unlimited Path (OctoSEC)
+  45.61.142.130 - UDP Connection Remote Port 43455.
+
+
+- Atlanta - Standard 1 = Nuclear Fallout (NFO) - ~ 40 Gbps
+  74.91.127.188 - UDP Connection Remote Port 1194.
+
+
+- Chicago - Premium Game 1 = Path Networks - Unlimited Path (OctoSEC)
+  172.86.114.2 - UDP Connection Remote Port 1195.
+
+
+- Chicago - Standard 1 = Nuclear Fallout (NFO) - 300 Gbps
+  162.248.88.18 - UDP Connection Remote Port 37394.
+
+
+- Chicago - Standard 2 = Nuclear Fallout (NFO) - 300 Gbps
+  192.223.30.35 - UDP Connection Remote Port 39610.
+
+
+- Chicago - Standard 3 = Nuclear Fallout (NFO) - 300 Gbps
+  192.223.30.89 - UDP Connection Remote Port 45833.
+
+
+- Dallas - Standard 1 = Nuclear Fallout (NFO) - ~ 20 Gbps
+  66.151.244.115 - UDP Connection Remote Port 23124.
+
+
+- Dallas - Premium Game 1 = Path Networks - Unlimited Path (OctoSEC)
+  172.86.114.130 - UDP Connection Remote Port 1195.
+
+
+- Frankfurt - Standard 1 = Corero - Unlimited Corero (with CoreBackbone + Arbor)
+  179.61.251.46 - UDP Connection Remote Port 17583.
+
+
+- Frankfurt - Standard 2 = Corero - Unlimited Corero (with CoreBackbone + Arbor)
+  179.61.251.48 - UDP Connection Remote Port 18436
+
+
+- Frankfurt - Game 1 = OVH - Unlimited OVH Game (100UP Hosting)
+  145.239.139.57 - UDP Connection Remote Port 43510.
+
+
+- Frankfurt - Game 2 = OVH - Unlimited OVH Game (100UP Hosting)
+  54.37.202.124 - UDP Connection Remote Port 33616.
+
+
+- Frankfurt - Game 3 = OVH - Unlimited OVH Game (100UP Hosting)
+  145.239.235.40 - UDP Connection Remote Port 44891. 
+ 
+
+- Fremont - Standard 1 = Linode - ~ 40 Gbps 
+  45.79.86.174 - UDP Connection Remote Port 40645.
+
+
+- Gravelines - Standard 1 = OVH - Unlimited OVH (TCP Connection)
+  147.135.181.101 - TCP Connection Remote Port 443.
+
+
+- Helsinki - Standard 1 = Hetzner DC - ~ 40 Gbps
+  95.216.137.72 - UDP Connection Remote Port 1194.
+
+
+- Las Vegas - Standard 1 = Cloudflare - Unlimited Cloudflare (FranTech Solutions Hosting - Hostname: lasvegas-1.octovpn.net) 
+  145.239.235.40 - UDP Connection Remote Port 1194.
+
+
+- London - Game 1 = OVH - Unlimited OVH Game (OctoVPN Services Hosting)
+  51.89.208.88 - UDP Connection Remote Port 42375.
+
+
+- London - Game 2 = OVH - Unlimited OVH Game (OctoVPN Services Hosting)
+  51.89.208.89 - UDP Connection Remote Port 38037.
+
+
+- London - Game 3 = OVH - Unlimited OVH Game (OctoVPN Services Hosting)
+  51.89.208.90 - UDP Connection Remote Port 39372.
+
+
+- London - Standard 1 = Hydra Communications LTD - 160 Gbps (OctoSEC)
+  134.195.137.5 - UDP Connection Remote Port 16538.
+
+
+- London - Standard 2 = Hydra Communications LTD - 160 Gbps (OctoSEC)
+  134.195.137.6 - UDP Connection Remote Port 13581.
+
+
+- London - Standard 3 = Hydra Communications LTD - 160 Gbps (OctoSEC)
+  134.195.137.7 - UDP Connection Remote Port 13876.
+
+
+- Los Angeles - Premium Game 1 = Path Networks - Unlimited Path (OctoSEC)
+  45.61.142.2 - UDP Connection Remote Port 45844.
+
+
+- Los Angeles - Standard 1 = Nuclear Fallout (NFO) - ~ 100 Gbps
+  64.94.100.94 - UDP Connection Remote Port 1194.
+
+
+- Luxembourg - Standard 1 = Cloudflare - Unlimited Cloudflare (FranTech Solutions Hosting - Hostname: luxembourg-1.octovpn.net)
+  198.251.84.135 - UDP Connection Remote Port 1194.
+
+
+- Miami - Standard 1 = Choopa - ~ 10 Gbps (Vultr)
+  104.207.145.47 - UDP Connection Remote Port 44982.
+
+
+- Montreal - Game 1 = OVH - Unlimited OVH Game (TCP Connection)
+  192.99.250.208 - TCP Connection Remote Port 41569.
+
+
+- Montreal - Game 2 = OVH - Unlimited OVH Game (TCP Connection)
+  192.99.250.209 - TCP Connection Remote Port 32167.
+
+
+- Montreal - Game 3 = OVH - Unlimited OVH Game (TCP Connection)
+  192.99.250.210 - TCP Connection Remote Port 35765.
+
+
+- Mumbai - Standard 1 = Linode - ~ 40 Gbps
+  172.105.54.68 - UDP Connection Remote Port 42163.
+
+
+- New York - Premium Game 1 = Path Networks - Unlimited Path (OctoSEC)
+  45.61.142.66 - UDP Connection Remote Port 42159.
+
+
+- New York - Premium Game 2 = Path Networks - Unlimited Path (OctoSEC)
+  193.25.253.131 - UDP Connection Remote Port 45677.
+
+
+- New York - Premium Game 3 = Path Networks - Unlimited Path (OctoSEC)
+  198.251.83.95 - UDP Connection Remote Port 1194.
+
+
+- Reston - Game 1 = OVH - Unlimited OVH Game (Services, OctoVPN)
+  51.81.119.0 - UDP Connection Remote Port 37956.
+
+
+- Reston - Game 2 = OVH - Unlimited OVH Game (Services, OctoVPN)
+  51.81.119.1 - UDP Connection Remote Port 41753. 
+
+
+- Reston - Game 3 = OVH - Unlimited OVH Game (Services, OctoVPN)
+  51.81.119.2 - UDP Connection Remote Port 37477.
+
+
+- Seattle - Standard 1 = Nuclear Fallout (NFO) - 200 Gbps
+  66.150.164.180 - UDP Connection Remote Port 1194.
+
+
+- Strasbourg - Game 1 = OVH - Unlimited OVH Game
+  46.105.42.71 - UDP Connection Remote Port 57833.
+
+
+- Strasbourg - Game 2 = OVH - Unlimited OVH Game
+  46.105.42.72 - UDP Connection Remote Port 59351.
+
+
+- Strasbourg - Game 3 = OVH - Unlimited OVH Game
+  46.105.50.81 - UDP Connection Remote Port 49678.
+
+
+- Strasbourg - Standard 1 = OVH - Unlimited OVH (TCP Connection)
+  178.33.111.255 - UDP Connection Remote Port 443.
+
+
+- Sydney - Game 1 = OVH - Unlimited OVH Game
+  139.99.234.42 - UDP Connection Remote Port 47976.
+
+
+- Sydney - Game 2 = OVH - Unlimited OVH Game
+  139.99.234.43 - UDP Connection Remote Port 41492.
+
+
+- Sydney - Game 3 = OVH - Unlimited OVH Game
+  139.99.234.46 - UDP Connection Remote Port 39349.
+
+
+- Tokyo - Standard 1 = Linode - ~ 40 Gbps
+  172.104.114.105 - UDP Connection Remote Port 42163.
+
+
+- Seattle - Standard 1 = Linode - ~ 40 Gbps
+  172.105.102.212 - UDP Connection Remote Port 9426.
+
+
+- Warsaw - Standard 1 = OVH - Unlimited OVH (TCP Connection)
+  137.74.7.44 - UDP Connection Remote Port 443.
